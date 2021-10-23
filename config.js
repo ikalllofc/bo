@@ -1,18 +1,18 @@
 userbot = {
- owner: [ "6281261324817","62857420881846","628812904283","6282328303332", "62822980698995", "436504463151666", "62823283033323" ],
+ owner: [ "6289696454872","6289696454872","6289696454872","6289696454872", "6289696454872", "6289696454872", "6289696454872" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
    error: "errorr!!"
    },
-   prefix: ["/"],
-   gexp: 50,
-   limit: 100,
+   prefix: ["."],
+   gexp: 500,
+   limit: 1000,
    eror: "Sepertinya Eror",
-   waits: "Sedang di proses",
+   waits: "Sedang di PROSES,TUNGGU ANJ",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
-   packname: 'R I X L E   B O T',
-   author: 'Arifi Razzaq',
+   packname: 'I K A L   B O T',
+   author: 'IKALOFC',
     setting: {
     admin: "only admin",
     group: "only group",
